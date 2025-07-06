@@ -1,4 +1,4 @@
-![Twitter Logo](<twitter dashboard logo-1.jpeg>)
+![Twitter Logo](<twitter dashboard logo.jpeg>)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/-mohan-s/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mohan2703)
