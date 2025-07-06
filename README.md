@@ -33,4 +33,5 @@ Insights gained from the dashboard include a comprehensive count of all retweets
 Various visualizations are used in the dashboard, including a gauge to display metrics such as engagement rate or total impressions, cards to highlight key metrics like total tweets, total retweets, and maximum likes, slicers to filter data based on specific criteria such as date ranges or tweet types, stacked column charts to compare metrics such as engagements and impressions across different periods, stacked bar charts to visualize distributions such as likes and retweets by tweet, pie charts to show proportions of different types of engagements, and line charts to illustrate trends over time, such as impressions or engagements per week.
 
 ## Formulas of All DAX Measures Used and Custom Column Created
-// jnsjdn
+    jnsjdn double tab for code writing
+    
